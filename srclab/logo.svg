@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="350" height="100"
+>
+    <text font-size="100" textLength="0" fill="rgb(255, 255, 255)"
+        x="50" y="100" style="text-anchor: middle" >
+        S
+    </text>
+    <text font-size="90" textLength="0" fill="rgb(255, 255, 255)"
+        x="100" y="100" style="text-anchor: middle">
+        r
+    </text>
+    <text font-size="90" textLength="0" fill="rgb(255, 255, 255)"
+        x="150" y="100" style="text-anchor: middle">
+        c
+    </text>
+    <text font-size="100" textLength="0" fill="rgb(255, 255, 255)"
+        x="200" y="100" style="text-anchor: middle">
+        L
+    </text>
+    <text font-size="90" textLength="0" fill="rgb(255, 255, 255)"
+        x="250" y="100" style="text-anchor: middle">
+        a
+    </text>
+    <text font-size="90" textLength="0" fill="rgb(255, 255, 255)"
+        x="300" y="100" style="text-anchor: middle">
+        b
+    </text>
+</svg>
