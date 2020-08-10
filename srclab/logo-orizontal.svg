@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150">
+
+  <rect width="480" height="150" fill="#000000" />
+
+  <text x="40" y="130" font-size="150" fill="#e73313" style="text-anchor: middle">
+    S
+  </text>
+  <text x="120" y="130" font-size="130" fill="#f0ec2b" style="text-anchor: middle">
+    r
+  </text>
+  <text x="200" y="130" font-size="130" fill="#2f87c7" style="text-anchor: middle">
+    c
+  </text>
+  <text x="280" y="130" font-size="150" fill="#49b232" style="text-anchor: middle">
+    L
+  </text>
+  <text x="360" y="130" font-size="130" fill="#f3b01c" style="text-anchor: middle">
+    a
+  </text>
+  <text x="440" y="130" font-size="130" fill="#8b4898" style="text-anchor: middle">
+    b
+  </text>
+</svg>
